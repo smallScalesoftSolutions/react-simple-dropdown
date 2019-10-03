@@ -15,6 +15,7 @@
     cursor: pointer;
     border-bottom-width: 0px;
     border-radius: 5px;
+    overflow: auto;
 }
 
 .open-box {
@@ -40,6 +41,7 @@
 
 .open-list{
     border-color: lightblue;
+    height: 100px;
 }
 
 .option {
